@@ -19,7 +19,7 @@ v1.0
 - [Mac版](/footprinter/Footprinter_mac.zip)
 
 
-### Auto-reco-SNS-affi
+### ARSA
 BrainとTipsをスクレイピングして、アフィリエイトしやすい条件に当てはまる記事の情報をつぶやくBot。
 使い方はTwitterアカウントにジャンプして、自己紹介文に記載されています。
 
